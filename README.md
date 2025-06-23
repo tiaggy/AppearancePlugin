@@ -122,8 +122,6 @@ boots:
 
 ---
 
-## 👤 Developer Info
-
 Created by Tiaggy.
 
 For suggestions or bug reports, please open an issue or contact me directly.
