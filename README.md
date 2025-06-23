@@ -110,7 +110,7 @@ boots:
 
 1. Move the texture to the responding assets folder in `plugins/AppearancePlugin`.
 2. Add the item to `config.yml` with its texture URL.
-3. Reload the plugin with `/appearance reload`.
+3. Reload the plugin with `/clothes reload`.
 
 ---
 
